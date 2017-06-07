@@ -1,0 +1,298 @@
+
+
+body{
+    margin: 0;
+    font-family: 'Mogra', cursive;
+font-family: 'Slabo 27px', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Patua One', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+}
+
+.navbar-header button{
+  background-color: #F3DFBE;
+  width: 40px;
+  height: 35px;
+  padding: 2px 1px;
+}
+.navbar-header a{
+      font-family: 'Patua One', cursive;
+}
+
+.jumbotron{
+    background: url('../image/im1.jpg') no-repeat 0 -240px;
+    height: 500px;
+    margin-top: -20px;
+    text-align: right;
+    padding-top: 180px;
+
+    background-repeat: ;
+    background-size: 100% 150%;
+    border-bottom:#522f08 1px solid;
+    /*border-bottom:#292c2f 2px solid;*/
+
+}
+.jumbotron h2{
+    /*color: #522f08;*/
+    padding-top: 150px;
+    color: #292c2f;
+    font-family: 'Playfair Display', serif;
+
+}
+.jumbotron p{
+    /*color: #522f08;*/
+   color: #292c2f;
+    font-family: 'Mogra', cursive;
+
+}
+
+#about{
+    text-align: center;
+    padding: 60px;
+
+}
+#about h2{
+    font-family: 'Fjalla One', sans-serif;
+}
+.row h3{
+    font-family: 'Playfair Display', serif;
+}
+.glyphicon{
+    font-size: 45px;
+    padding-top: 40px;
+    background: #333;
+    color: white;
+    padding: 20px;
+    border-radius: 50%;
+}
+.fa-wordpress{
+    padding: 14.5px;
+    background: #333;
+    color: white;
+    border-radius: 50%;
+
+}
+.work{
+    text-align: center;
+    padding: 45px;
+    background-color: #F3DFBE;
+    padding: 80px;
+    width: 100%;
+
+}
+.work p{
+  text-align: center;
+   font-family: 'Playfair Display', serif;
+}
+.work h2{
+    font-weight: 300;
+    padding-bottom: 50px;
+    color: #333;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 35px;
+}
+.work h3{
+     font-family: 'Fjalla One', sans-serif;
+     font-size: 25px;
+}
+.work img{
+    border-radius: 2%;
+}
+.work .row .col-md-4{
+    padding: 20px;
+
+}
+.work .row .col-sm-4{
+    padding: 20px;
+
+}
+
+body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-top: 45px;}
+  .bg-1 {
+      /*background-color: #FBEDEC; */
+      /*background-color: #FCF3F2;*/
+      color: black;
+      height: 349px;
+  }
+.me{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.me img{
+    display: inline;
+    width:140px;
+    height:140px;
+    margin-left: 10px;
+    margin-top: 15px;
+   /* margin-bottom: 50px;*/
+}
+
+.me p{
+    padding-top: 10px;
+    font-family: 'Playfair Display', serif;
+}
+.me .col-md-8{
+    padding-top: 5px;
+}
+.me h3{
+       color: #291703;
+       font-family: 'Mogra', cursive;
+}
+.me blockquote{
+  color: #6B3F0D;
+  border-left-color: #522f08;
+}
+
+.navbar{
+    background-color: #292c2f;
+}
+.navbar a, li a{
+    color: #F3DFBE;
+
+}
+.navbar li{
+    padding-right: 5px;
+}
+
+.navbar .navbar-nav > li > a:hover,
+.navbar .navbar-nav > li > a:focus {
+  color: #58420b;
+  background-color: #F3DFBE;
+  border-radius:7%;
+
+}
+
+.navbar a:hover{
+    color:  #F3DFBE;
+}
+.navbar li .active a{
+    color:  #522f08;
+    background-color: #F3DFBE;
+     font-family: 'Patua One', cursive;
+
+}
+.navbar .navbar-nav > .active > a,
+.navbar .navbar-nav > .active > a:hover,
+.navbar .navbar-nav > .active > a:focus {
+  color: #522f08;
+  background-color: #F3DFBE;
+  border-radius:7%;
+}
+
+.foot{
+    background-color: #522f08;
+    color: #F3DFBE;
+    padding: 20px;
+}
+.foot li{
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+
+}
+
+/*body {
+    font-family: 'Lato', sans-serif;
+}*/
+
+
+.footer-right .footer-icons .blog{
+   width: 42px;
+    height: 44px;
+
+}
+.footer-right p{
+    font-family: 'Playfair Display', serif;
+}
+.footer-center p{
+        font-family: 'Playfair Display', serif;
+}
+.footer-left p{
+            font-family: 'Playfair Display', serif;
+}
+.fa-facebook {
+    padding:10px 13px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #3B5998;
+     border-radius: 20%;
+}
+.fa-facebook:hover {
+    background-color: #3d5b99;
+    color: white;
+}
+.fa-bitbucket {
+    padding:10px 13px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #205081;
+    border-radius: 20%;
+}
+.fa-bitbucket:hover {
+    background-color: #00aced;
+    color: white;
+}
+.fa-github {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #444444;
+    border-radius: 20%;
+}
+.fa-github:hover {
+    background-color: #eb8231;
+    color: white;
+}
+
+.fa-linkedin {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #007BB6;
+    border-radius: 20%;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+    color: white;
+}
+.fa-google-plus {
+    padding:10px 8px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #DD4B39;
+    border-radius: 20%;
+}
+.fa-google-plus:hover {
+    background-color: #e25714;
+     color: white;
+}
+
+@media only screen and (max-width: 800px) {
+
+}
+@media screen and (min-width: 800px) {
+
+ }
